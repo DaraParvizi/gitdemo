@@ -5,5 +5,7 @@ kaffe fløde
 Kaffe sukker
 bananer
 sodavand
+ananas
+kiwi
 
 
