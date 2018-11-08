@@ -7,5 +7,7 @@ bananer
 sodavand
 ananas
 kiwi
+shawarma
+
 
 
